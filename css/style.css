@@ -1,0 +1,15 @@
+.image {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+.text-wraper {
+	width: 689px;
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.wraper {
+	background-color: red;
+}
